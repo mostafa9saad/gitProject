@@ -9,7 +9,7 @@ package gitp;
  *
  * @author mosta
  */
-class HelloWorld
+class HelloJava
 {
     public void printHelloWorld()
     {
@@ -29,7 +29,7 @@ public class GitP {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       new HelloWorld().printHelloWorld();
+       new HelloJava().printHelloWorld();
        new HelloITI().printHelloITI();
     }
     
