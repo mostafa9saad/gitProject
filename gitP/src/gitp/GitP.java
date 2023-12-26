@@ -22,6 +22,10 @@ class HelloITI
     {
         System.out.println("HelloITI");
     }
+     public void printHelloGIT()
+    {
+        System.out.println("HelloGit");
+    }
 }
 public class GitP {
 
@@ -31,6 +35,9 @@ public class GitP {
     public static void main(String[] args) {
        new HelloJava().printHelloWorld();
        new HelloITI().printHelloITI();
+              new HelloITI().printHelloGIT();
+
+       
     }
     
 }
