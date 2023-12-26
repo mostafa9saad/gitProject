@@ -9,13 +9,20 @@ package gitp;
  *
  * @author mosta
  */
+class HelloWorld
+{
+    public void printHelloWorld()
+    {
+        System.out.println("HelloWorld");
+    }
+}
 public class GitP {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       new HelloWorld().printHelloWorld();
     }
     
 }
