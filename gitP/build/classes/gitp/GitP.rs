@@ -1,2 +1,0 @@
-gitp.GitP
-gitp.HelloWorld

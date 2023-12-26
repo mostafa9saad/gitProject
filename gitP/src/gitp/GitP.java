@@ -16,6 +16,13 @@ class HelloWorld
         System.out.println("HelloWorld");
     }
 }
+class HelloITI
+{
+    public void printHelloITI()
+    {
+        System.out.println("HelloITI");
+    }
+}
 public class GitP {
 
     /**
@@ -23,6 +30,7 @@ public class GitP {
      */
     public static void main(String[] args) {
        new HelloWorld().printHelloWorld();
+       new HelloITI().printHelloITI();
     }
     
 }
