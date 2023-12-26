@@ -35,7 +35,7 @@ public class GitP {
     public static void main(String[] args) {
        new HelloJava().printHelloWorld();
        new HelloITI().printHelloITI();
-              new HelloITI().printHelloGIT();
+       new HelloITI().printHelloGIT();
 
        
     }
