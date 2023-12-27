@@ -27,6 +27,9 @@ class HelloITI
         System.out.println("HelloGit");
     }
 }
+
+
+
 public class GitP {
 
     /**
@@ -40,4 +43,10 @@ public class GitP {
        
     }
     
+    public void signUP()
+    {
+        System.out.println("signUP");
+    }
+    
 }
+
