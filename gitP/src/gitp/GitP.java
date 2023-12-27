@@ -26,6 +26,11 @@ class HelloITI
         System.out.println("Hello Git");
     }
 }
+<<<<<<< HEAD
+
+
+
+=======
 class Database{
     int id;
     String name;
@@ -53,6 +58,7 @@ class Database{
     
     
 }
+>>>>>>> database
 public class GitP {
 
     /**
@@ -66,4 +72,10 @@ public class GitP {
        
     }
     
+    public void signUP()
+    {
+        System.out.println("signUP");
+    }
+    
 }
+
