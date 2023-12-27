@@ -15,6 +15,10 @@ class HelloJava
     {
         System.out.println("HelloWorld");
     }
+	public void loginMethod()
+	{
+		System.out.println("Login Function");
+	}
 }
 class HelloITI
 {
